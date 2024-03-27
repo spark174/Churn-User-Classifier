@@ -1,4 +1,7 @@
 # Customer Churn Predictor Project
+
+![image](https://github.com/spark174/Churn-User-Classifier/assets/90639266/d91e3fe1-92dd-4775-a838-7de7a59ced49)
+
 ### Purpose and Goal
 The primary objective of this project is to develop a predictive model capable of identifying potential churn customers within a telecommunication company's client base. By accurately predicting which customers are at risk of leaving, the company aims to proactively offer tailored product packages or pricing adjustments to retain these customers. The ultimate goal is to correctly identify the customers that are going to leave our services in the next month. By predicting these users correctly, the company will be able to provide better products & services packages in order to retain the clients. Considering the context of a telecommunications company aiming to predict churn, it's crucial to balance between correctly identifying customers who are likely to churn (recall) and not misclassifying too many loyal customers as potential churners (precision). In the scenario of predicting churn, high recall is essential because it reflects the model's ability to catch a high percentage of actual churn cases. However, this should not come at the expense of precision, where a low precision would mean many loyal customers are mistakenly targeted as churn risks, potentially leading to unnecessary retention efforts and offers, which could be costly and inefficient. 
 
